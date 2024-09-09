@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Zivago, a Director of Engineering at @canary-technologies-corp leading a team of DevOps/SRE folks on improving our infrastructure through automation while keeping mind reliability, scalability and security. I am HIRING!
+I am Zivago, a Director of Engineering at @canary-technologies-corp leading the Platform team (Infrastructure, Security, DevEx and IT). I am HIRING!
 
 ### Get in touch ✉️
 
