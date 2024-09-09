@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Zivago, an Engineering Manager at @spin-org leading a team of DevOps/SRE folks on improving our infrastructure through automation while keeping mind reliability, scalability and security. I am HIRING!
+I am Zivago, an Engineering Manager at @canary-technologies-corp leading a team of DevOps/SRE folks on improving our infrastructure through automation while keeping mind reliability, scalability and security. I am HIRING!
 
 ### Get in touch ✉️
 
